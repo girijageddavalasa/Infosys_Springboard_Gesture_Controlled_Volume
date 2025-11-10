@@ -1,0 +1,14 @@
+plam deteotr model - bounding box  -- blazeplam ---SSD  (OBJ DETCEITON ,OBJ LOCALATION
+hand landmarks -> cnn at - depth wise convultion ---light weight model
+gesture
+
+What information is shown in the overlay of the live camera feed?
+How do you display the calculated distance (e.g., in pixels, cm)?
+How do you ensure the annotations update smoothly without flicker or lag?
+
+project name = Eucliance
+my name = Girija G
+college name = VIT Chennai
+
+distance between fingers thumb and index, 
+
