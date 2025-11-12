@@ -1,6 +1,6 @@
 # Infosys_Springboard_Gesture_Controlled_Volume
 
-plam deteotr model - bounding box  -- blazeplam ---SSD  (OBJ DETCEITON ,OBJ LOCALATION
+plam detector model - bounding box  -- blazeplam ---SSD  (OBJ DETCEITON ,OBJ LOCALATION
 hand landmarks -> cnn at - depth wise convultion ---light weight model
 gesture
 
@@ -10,7 +10,7 @@ How do you ensure the annotations update smoothly without flicker or lag?
 
 depth problem to be solved -> user keep hand near/far the mapping of volume changes ------------ REAL TIME PROBLEM ------ SOLUTION ?
 
-
+--------------------------------------------------------------------------------------------------------
 distance between fingers thumb and index, 
 
 # 🎵 Volume Control using Hand Gestures (Windows Core Audio + Pycaw)
@@ -27,7 +27,9 @@ Windows Core Audio is a collection of APIs and components that manage all audio 
 It provides low-level access to:
 - Hardware-connected audio devices
 - Volume and mute control
-- Per-application sound session management  
+- Per-application sound session management
+- Microsoft low level system
+- COM based API (COMPONENT OBJECT MODEL API) **need interfaces and pointer are required**
 
 ### Key Components
 | Component | Description |
