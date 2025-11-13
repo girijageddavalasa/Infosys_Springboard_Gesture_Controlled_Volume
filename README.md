@@ -195,3 +195,11 @@ CLSCTX_ALL: The activation context.
 None: Reserved for future use (must be None).
 
 volume = cast(interface, POINTER(IAudioEndpointVolume)): This is the crucial step demonstrating the pointer work. The raw interface object is cast into a pointer of the IAudioEndpointVolume type, which allows you to call the volume control methods (like GetMasterVolumeLevel or SetMasterVolumeLevel).
+
+
+##13th November 2025
+face problem with this **IAudioEndpointVolume**
+because thi only controlls the audio of the Master system but not that of the others sessions like youtube and etc 
+
+masterAudioContolKivy.py -----> controlls only the master volume not that of the others use other things like IAudioSessionManager2/ISimpleAudioVolume
+
