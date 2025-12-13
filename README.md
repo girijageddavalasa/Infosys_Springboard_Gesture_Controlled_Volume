@@ -3,9 +3,6 @@
 ## Project Title
 Infosys_Springboard_Gesture_Controlled_Volume
 
-## Timeline
-11–13 November 2025
-
 ---
 
 ## Objective
